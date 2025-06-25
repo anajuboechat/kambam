@@ -14,7 +14,7 @@
         android:layout_marginHorizontal="25dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStarOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         android:paddingHorizontal="25dp">
 
 
